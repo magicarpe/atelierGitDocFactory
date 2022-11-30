@@ -1,2 +1,4 @@
-exercice 1
+exercice
 atelier
+
+Ceci est la ligne de Lucie.
